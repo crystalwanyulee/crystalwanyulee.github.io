@@ -1,5 +1,5 @@
 ---
-title: E-Commerce Customer Segmentation
+title: Channel Attribution Modeling in Digital Marketing
 category: Python/R
 category_slug: f-python-and-r
 type: content
@@ -7,7 +7,7 @@ image: https://camo.githubusercontent.com/58ede8eaf820405accc5bad98b6f770cb6865e
 button_url: https://github.com/crystalwanyulee/data_science_projects/tree/master/projects/online%20retail/segmentation
 ---
 
-* **Purpose:** Identity current customer groups
-* **Methods:** RFM analysis, K-means, Machine Learning (Clustering)
-* **Results:** Segmented consumers into 5 groups and found a potential risk that sales heavily relies on a few customers
+* **Purpose:** Recognize channels which contributes the most sales
+* **Methods:** Markov Chain, Visualization
+* **Results:** In the 5 channels, Facebook and Paid Search contributes 54.4% conversions, whereas Instagram has the highest conversion rate
 
