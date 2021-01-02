@@ -3,7 +3,7 @@ title: Market Shocks of COVID-19
 category: Python/R
 category_slug: f-python-and-r
 type: content
-image: assets/img/works/market-shock.png
+image: https://github.com/crystalwanyulee/crystalwanyulee.github.io/blob/main/assets/img/works/market-shock.png?raw=true
 button_url: https://github.com/crystalwanyulee/data_science_projects/tree/master/projects/comorbidity
 ---
 
