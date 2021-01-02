@@ -7,5 +7,5 @@ image: assets/img/works/tableau-mental-disorder.png
 button_url: https://public.tableau.com/views/day4_mental_disorder/Dashboard?:language=en&:display_count=y&:origin=viz_share_link
 ---
 
-* **Methods:** Data Visualization, Descriptive Analytics
+* **Graphs:** Bubble Chart, Butterfly Chart
 * **Tools:** Tableau
