@@ -1,22 +1,13 @@
 ---
-title: Social Website
-category: Content
-category_slug: f-content
+title: Clothing E-Commerce Reviews Sentiment Analysis
+category: NLP
+category_slug: f-nlp
 type: content
-image: assets/img/works/work9.jpg
-button_url: https://bslthemes.com/
+image: https://camo.githubusercontent.com/8559040d69df13e6bf8f80b74522aef0b8061dc2e8a1263bf26b07c80b710789/68747470733a2f2f696d616765732e756e73706c6173682e636f6d2f70686f746f2d313530393930393735363430352d6265303139393838313639353f69786c69623d72622d312e322e3126697869643d65794a6863484266615751694f6a45794d446439266175746f3d666f726d6174266669743d63726f7026773d3133353026713d3830
+button_url: https://github.com/crystalwanyulee/data_science_projects/tree/master/nlp/sentiment%20analysis
 ---
 
-So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.
+* **Purpose:** Understand customers' attitudes toward the business
+* **Methods:** Naïve Bayes Algorithm, Machine Learning (Classification)
+* **Results:** F1 score achieved 78.1% and identified 53 keywords for classifying positive and negative reviews
 
-Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.
-
-^Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque suscipit.
-
-Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing sufficient everything men him admiration unpleasing.
-
-* Greatest properly off ham exercise all.
-* Unsatiable invitation its possession nor off.
-* All difficulty estimating unreserved increasing the solicitude.
-
-Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of.
