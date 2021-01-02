@@ -3,7 +3,7 @@ title: Virtual Movie Recommendation Assistant
 category: Web App
 category_slug: f-webapp
 type: content
-image: https://github.com/crystalwanyulee/data_science_projects/raw/master/images/chatbot.png
+image: assets/img/works/chat-bot.png
 button_url: https://github.com/crystalwanyulee/plotly_dash_projects/tree/main/project%203
 ---
 

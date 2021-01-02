@@ -3,7 +3,7 @@ title: Loan Analytics Calculator and Dashboard
 category: Web App
 category_slug: f-webapp
 type: content
-image: https://raw.githubusercontent.com/crystalwanyulee/plotly_dash_projects/main/loan_analytics/images/image-20201130174910236.png
+image: assets/img/works/loan-analytics.png
 button_url: https://github.com/crystalwanyulee/plotly_dash_projects/tree/main/loan_analytics
 ---
 
