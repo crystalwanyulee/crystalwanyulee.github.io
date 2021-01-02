@@ -7,9 +7,18 @@ image: https://camo.githubusercontent.com/58e78b05d310a2a7389f2e20b3a5cc623eab4a
 button_url: https://rpubs.com/crystalwanyulee/656996
 ---
 
-**Purpose:** Find out the best times to call the right customers to promote a term deposit
+**Purpose:** 
 
-**Methods:** Classification, Logistic Regression, KNN, Random Forest
+Find out the best times to call the right customers to promote a term deposit
 
-**Results:** Implemented several machine learning models and selected the best performing random forest model which had the best precision score
+**Methods:** 
+
+* Classification
+* Logistic Regression
+* KNN
+* Random Forest
+
+**Results:** 
+
+Implemented several machine learning models and selected the best performing random forest model which had the best precision score
 
