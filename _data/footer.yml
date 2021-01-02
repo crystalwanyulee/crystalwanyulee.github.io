@@ -5,16 +5,13 @@
 
 main:
   social:
-    - title: "Dribbble"
-      icon: "social-dribbble"
-      url: "https://dribbble.com/"
-    - title: "Twitter"
-      icon: "social-twitter"
-      url: "https://twitter.com/"
+    - title: "LinkedIn"
+      icon: "social-linkedin"
+      url: "https://www.linkedin.com/in/wanyu-lee"
     - title: "GitHub"
       icon: "social-github"
-      url: "https://github.com/"
+      url: "https://github.com/crystalwanyulee"
     - title: "Instagram"
-      icon: "social-instagram-outline"
-      url: "https://instagram.com/"
+      icon: "social-tableau"
+      url: "https://public.tableau.com/profile/crystal.lee5994#!"
   copy: "© 2020 Glitche. All rights reserved."
