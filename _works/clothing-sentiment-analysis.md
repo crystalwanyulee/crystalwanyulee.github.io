@@ -1,5 +1,5 @@
 ---
-title: Clothing Reviews Sentiment Analysis
+title:  Clothing Reviews  Sentiment Analysis
 category: NLP
 category_slug: f-nlp
 type: content
