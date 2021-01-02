@@ -1,5 +1,6 @@
 ---
-title: Exploratory Analysis of E-Commerce
+title: Exploratory Analysis 
+for E-Commerce
 category: Python/R
 category_slug: f-python-and-r
 type: content
