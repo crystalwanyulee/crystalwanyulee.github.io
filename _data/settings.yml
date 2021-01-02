@@ -17,26 +17,26 @@ portfolio:
       slug: "box-item"
       active: 1
 
-    - name: "Video"
-      slug: "f-video"
+    - name: "Python/R"
+      slug: "f-python-and-r"
       active: 0
 
-    - name: "Music"
-      slug: "f-music"
+    - name: "Viz"
+      slug: "f-viz"
       active: 0
 
-    - name: "Links"
-      slug: "f-link"
+    - name: "SQL"
+      slug: "f-sql"
       active: 0
 
-    - name: "Image"
-      slug: "f-image"
+    - name: "NLP"
+      slug: "f-nlp"
       active: 0
 
-    - name: "Gallery"
-      slug: "f-gallery"
+    - name: "Web App"
+      slug: "f-webapp"
       active: 0
 
-    - name: "Content"
-      slug: "f-content"
+    - name: "Others"
+      slug: "f-others"
       active: 0
