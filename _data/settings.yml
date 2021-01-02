@@ -36,7 +36,3 @@ portfolio:
     - name: "Web App"
       slug: "f-webapp"
       active: 0
-
-    - name: "Others"
-      slug: "f-others"
-      active: 0
