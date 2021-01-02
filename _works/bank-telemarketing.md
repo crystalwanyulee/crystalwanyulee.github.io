@@ -1,6 +1,5 @@
 ---
-title: Predictive Modeling 
-for Bank Telemarketing
+title: Predictive Modeling for Bank Telemarketing
 category: Python/R
 category_slug: f-python-and-r
 type: content
