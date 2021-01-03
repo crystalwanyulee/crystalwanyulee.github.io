@@ -1,5 +1,5 @@
 ---
-title: Distributional Semantics Takes the SAT Analogy Questions
+title: Semantic Similarities Takes SAT Questions 
 category: NLP
 category_slug: f-nlp
 type: content
