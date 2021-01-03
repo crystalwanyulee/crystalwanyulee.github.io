@@ -5,12 +5,12 @@
 
 ### About [ about ]
 about:
-  title: "About Me"
+  title: "Crystal Lee"
   image: "assets/img/picture.jpeg"
   text: "
         <p>
-          <strong>Hello! I’m Crystal Lee.</strong><br>
-          Marketer-turned Data Enthusiast from Taiwan. I am currently in Boston and pursuing a master degree in Boston. I love to discover insights from data and present them in digestable ways. This website records my passion in data science and marketing.
+          <strong>Hello! Nice to meet you!</strong><br>
+          I am a marketer-turned data enthusiast from Taiwan. Currently, I am in Boston and pursuing a master degree of Business Analytics. I love to dive into data, grasp insights and present them in digestable and attractive ways. This website records my passion in data science and marketing.
         </p>
         "
   download:
