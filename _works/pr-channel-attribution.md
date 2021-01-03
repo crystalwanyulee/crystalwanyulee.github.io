@@ -1,5 +1,5 @@
 ---
-title: Digital Channel Attribution Modeling
+title: Channel Attribution Modeling
 category: Python/R
 category_slug: f-python-and-r
 type: content
