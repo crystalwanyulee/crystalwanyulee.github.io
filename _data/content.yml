@@ -13,6 +13,10 @@ about:
           Marketer-turned Data Enthusiast from Taiwan. I am currently in Boston and pursuing a master degree in Boston. I love to discover insights from data and present them in digestable ways. This website records my passion in data science and marketing.
         </p>
         "
+  download:
+    text: "Portfolio"
+    link: "https://crystalwanyulee.github.io/portfolio/"
+    
 ### Contact Form [ contacts-form ]
 contacts_form:
   title: "Contact Form"
