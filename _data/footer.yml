@@ -11,7 +11,5 @@ main:
     - title: "GitHub"
       icon: "social-github"
       url: "https://github.com/crystalwanyulee"
-    - title: "Instagram"
-      icon: "social-facebook"
-      url: "https://public.tableau.com/profile/crystal.lee5994#!"
+
   copy: "© 2020 Glitche. All rights reserved."
