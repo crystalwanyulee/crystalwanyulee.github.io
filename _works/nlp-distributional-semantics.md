@@ -8,4 +8,4 @@ button_url: https://github.com/crystalwanyulee/data_science_projects/blob/master
 ---
 
 * **Purpose:** Constructed distributional semantic word sectors through PPMI and apply them to synonym detection and solve SAT analogy questions
-* **Results:** Python
+* **Tool**: Python

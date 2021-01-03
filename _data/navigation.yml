@@ -20,8 +20,3 @@ main:
   - title: "Portfolio"
     url: "portfolio/"
     button: 0
-  
-  # Contacts
-  - title: "Contacts"
-    url: "contacts/"
-    button: 1
