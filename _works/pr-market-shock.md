@@ -1,5 +1,5 @@
 ---
-title: Market Shocks of COVID-19
+title: Stock Market Shocks of Coronavirus
 category: Python/R
 category_slug: f-python-and-r
 type: content
